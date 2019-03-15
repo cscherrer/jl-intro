@@ -2,3 +2,6 @@ name = "jl-intro"
 uuid = "17c16f44-4746-11e9-1583-7d74d615f924"
 authors = ["Chad Scherrer <chad.scherrer@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Remark = "79b45036-8e38-5d04-8f49-b9fb23ff5a0d"
