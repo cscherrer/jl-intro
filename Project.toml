@@ -4,4 +4,6 @@ authors = ["Chad Scherrer <chad.scherrer@gmail.com>"]
 version = "0.1.0"
 
 [deps]
+Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
 Remark = "79b45036-8e38-5d04-8f49-b9fb23ff5a0d"
+ScikitLearn = "3646fa90-6ef7-5e7e-9f22-8aca16db6324"
